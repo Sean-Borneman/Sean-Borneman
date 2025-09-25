@@ -1,8 +1,8 @@
 # Hi! 👋, I'm Sean
 
-I'm Sean Borneman, a passionate, self-taught Programmer with an interest in Machine Learning, Quantum Computing, and Data Analysis
+I'm Sean Borneman, a passionate, self-taught Programmer with an interest in Machine Learning, Quantum Computing, and Data Analysis. At the moment I'm working on two project, one on [AI Decompilers](https://github.com/Sean-Borneman/HexRay) and one on [Quantum Encryption Algorithms](https://github.com/Sean-Borneman/PQE)
 
-I'm also the lead programmer on [3494 Quadrangles](https://github.com/FRC3494) and [11329 I.C.E. Robotics](https://github.com/FTC11329)
+I also used to be the lead programmer on [3494 Quadrangles](https://github.com/FRC3494) and [11329 I.C.E. Robotics](https://github.com/FTC11329)
 
 Check me out on  
 -[Google Scholar](https://scholar.google.com/citations?hl=en&user=ro2PkcYAAAAJ)
